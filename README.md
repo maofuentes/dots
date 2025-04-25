@@ -1,0 +1,2 @@
+# dots
+Configuraciones Entorno Hyprland
