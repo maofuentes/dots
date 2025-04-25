@@ -1,7 +1,7 @@
 #
 # **Configuraciones Entorno Hyprland ultraliviano**
 #
-|                      Aplicativos                     |
+|                      Aplicativo                      |
 |------------------------------------------------------|
 | **Windows Manager**           | hyprland            |
 | **Barra**                     | waybar              |
