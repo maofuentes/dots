@@ -2,10 +2,11 @@
 # **Configuraciones Entorno Hyprland ultraliviano**
 #
 
-WindowsManager              hyprland
-Barra                       waybar
-Launcher de Aplicaciones    wofi
-Shell 	                    zsh
+| Windows Manager           | hyprland |
+|----------------------------|----------|
+| Barra                     | waybar   |
+| Launcher de Aplicaciones  | wofi     |
+| Shell                     | zsh      |
 
 # • Screenshots •
 
