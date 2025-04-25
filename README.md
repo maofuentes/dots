@@ -1,5 +1,6 @@
 #
-** Configuraciones Entorno Hyprland ultraliviano
+Configuraciones Entorno Hyprland ultraliviano
+#
 
 WindowsManager              hyprland
 Barra                       waybar
