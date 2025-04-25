@@ -1,8 +1,9 @@
 #
 # **Configuraciones Entorno Hyprland ultraliviano**
 #
-
-| Windows Manager           | hyprland |
+| Aplicativos           | Configuracion |
+|----------------------------|----------|
+| WM                        | hyprland   |
 | Barra                     | waybar   |
 | Launcher de Aplicaciones  | wofi     |
 | Shell                     | zsh      |
