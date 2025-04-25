@@ -1,7 +1,7 @@
 #
 # **Configuraciones Entorno Hyprland ultraliviano**
 #
-| Aplicativos           | Configuracion |
+| Configuracion         | Aplicativos   |
 |----------------------------|----------|
 | WM                        | hyprland   |
 | Barra                     | waybar   |
