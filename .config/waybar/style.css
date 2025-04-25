@@ -1,0 +1,23 @@
+* {
+    font-family: "Inter", sans-serif; /* Fuente moderna y elegante */
+    font-size: 11px; /* Tamaño de letra equilibrado */
+    letter-spacing: 0.5px;
+    font-weight: bold;
+}
+
+#waybar {
+    background-color: #ffffff; /* Fondo blanco puro */
+    color: #444444; /* Texto gris oscuro sofisticado */
+}
+
+#custom-launcher,
+#custom-power,
+#memory,
+#cpu,
+#disk,
+#hyprland-workspaces,
+#pulseaudio,
+#clock {
+    padding: 10px;
+    border-left: 2px;
+}
